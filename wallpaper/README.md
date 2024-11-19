@@ -1,0 +1,1 @@
+UBIACTION: ~/Pictures/wallpaper.png
