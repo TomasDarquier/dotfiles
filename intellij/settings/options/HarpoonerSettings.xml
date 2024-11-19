@@ -1,0 +1,9 @@
+<application>
+  <component name="com.github.erotourtes.harpoon.services.AppSettingsState">
+    <option name="settings">
+      <HarpoonSettings>
+        <option name="numberOfSlashes" value="2" />
+      </HarpoonSettings>
+    </option>
+  </component>
+</application>

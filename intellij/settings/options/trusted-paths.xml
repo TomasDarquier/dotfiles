@@ -1,0 +1,63 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/TFG" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/blueprints/cart-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/blueprints/config-server" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/blueprints/order-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/blueprints/product-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/blueprints/user-management-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/code-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/config-server" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/discovery-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/download-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/forntend-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/frontend-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/gateway" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/generation-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/init-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/request-service" value="true" />
+        <entry key="$USER_HOME$/Documents/TFG/user-service" value="true" />
+        <entry key="$USER_HOME$/Documents/authorization-server" value="true" />
+        <entry key="$USER_HOME$/Documents/authorization-server/backend-auth" value="true" />
+        <entry key="$USER_HOME$/Documents/authorization-server/backend-client" value="true" />
+        <entry key="$USER_HOME$/Documents/authorization-server/backend-resources" value="true" />
+        <entry key="$USER_HOME$/Documents/spring-boot-microservices" value="true" />
+        <entry key="$USER_HOME$/Documents/spring-boot-microservices/car-service" value="true" />
+        <entry key="$USER_HOME$/Documents/spring-boot-microservices/discovery-service" value="true" />
+        <entry key="$USER_HOME$/Documents/spring-boot-microservices/front-service" value="true" />
+        <entry key="$USER_HOME$/Documents/spring-boot-microservices/gateway" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)/api-gateway" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)/carrito-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)/config-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)/discovery-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)/ordenes-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(1)/productos-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/api-gateway" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/carrito-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/config-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/discovery-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/ordenes-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/productos-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(13)/usuarios-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)/carrito-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)/config-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)/discovery-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)/ordenes-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)/productos-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket(15)/usuarios-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket/api-gateway" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket/carrito-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket/config-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket/discovery-server" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket/ordenes-service" value="true" />
+        <entry key="$USER_HOME$/Downloads/bucket/productos-service" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
